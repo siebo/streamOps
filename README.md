@@ -1,8 +1,8 @@
 Control center for mobile video feeds in non-permissive environments
 
-This project was created at the NSIN/MD5 OFF THE GRID Hackathon.
-
-The current version is a React rewrite of the original Angular app with all
+This project was created at the NSIN/MD5 OFF THE GRID Hackathon.  The
+initial version was created in Angular.  The current version is a React
+rewrite of the original Angular app with all
 &#9608;&#9608;&#9608;&#9608;&#9608;
 and
 &#9608;&#9608;&#9608;&#9608;&#9608;
